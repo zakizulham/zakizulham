@@ -78,7 +78,7 @@ I've been working with [Nodejs](https://nodejs.org/en/), [PostgreSQL](https://ww
 
 </details>
 
-<img align="right" alt="GIF" src="./assets/hello-fox.gif" width="380" height="220" />
+<img align="right" alt="GIF" src="./assets/hello-fox.gif" width="380" />
 
 **A little piece of myself:**
 
