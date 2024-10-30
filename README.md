@@ -8,8 +8,8 @@ Hi there, my name is ZakiZulham and i'm a Undergraduate Actuarial Science &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-zulhamlizar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zakizulham)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zaki.zulham)
-[![Gmail Badge](https://img.shields.io/badge/-fransjesky-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zakizulham2020@gmail.com)](mailto:zakizulham2020@gmail.com)
-![visitors](https://img.shields.io/endpoint?url=endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fzakizulham%2Fzakizulham.json&style=flat&label=visitors&color=orange)
+[![Gmail Badge](https://img.shields.io/badge/-zakizulham-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaki.zulham@sci.ui.ac.id)](mailto:zaki.zulham@sci.ui.ac.id)
+![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fzakizulham%2Fzakizulham.json%3Fcolor%3Dorange)
 [![last Updated](https://img.shields.io/github/last-commit/zakizulham/zakizulham/main?label=last%20updated&style=flat)](https://github.com/zakizulham/zakizulham/commits)
 <!-- [![codewars](https://www.codewars.com/users/Zaki%20Zulham/badges/micro)](https://www.codewars.com/users/Zaki%20Zulham) -->
 
