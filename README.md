@@ -4,7 +4,7 @@ Hi there, my name is ZakiZulham and i'm a Undergraduate Actuarial Science &nbsp;
 <br/>
 <!-- I blend artwork with cutting-edge technology, designing statistical modelling and actuarial risk measurement and experiences. -->
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://www.zakizulham.github.io)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://zakizulham.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-zulhamlizar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zakizulham)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zaki.zulham)
