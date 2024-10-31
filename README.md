@@ -4,13 +4,13 @@ Hi there, my name is ZakiZulham and i'm a Undergraduate Actuarial Science &nbsp;
 <br/>
 <!-- I blend artwork with cutting-edge technology, designing statistical modelling and actuarial risk measurement and experiences. -->
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](soon)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://www.zakizulham.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-zulhamlizar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zakizulham)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zaki.zulham)
 [![Gmail Badge](https://img.shields.io/badge/-zakizulham-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaki.zulham@sci.ui.ac.id)](mailto:zaki.zulham@sci.ui.ac.id)
-![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fzakizulham%2Fzakizulham.json%3Fcolor%3Dorange)
-[![last Updated](https://img.shields.io/github/last-commit/zakizulham/zakizulham/main?label=last%20updated&style=flat)](https://github.com/zakizulham/zakizulham/commits)
+![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fzakizulham%2Fzakizulham.github.io.json%3Fcolor%3Dorange)
+[![last Updated](https://img.shields.io/github/last-commit/zakizulham/zakizulham.github.io/main?label=last%20updated&style=flat)](https://github.com/zakizulham/zakizulham.github.io/commits)
 <!-- [![codewars](https://www.codewars.com/users/Zaki%20Zulham/badges/micro)](https://www.codewars.com/users/Zaki%20Zulham) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zakizulham&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
